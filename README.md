@@ -1,4 +1,4 @@
-# AssureAI — Brand Protection Intelligence (APA Edition)
+# AssureAI — Brand Protection Intelligence
 
 AssureAI is a lightweight OSINT tool that detects impersonating social media accounts and fake/phishing websites that target a brand.  
 This repository contains the Replit/Gradio MVP used to demonstrate brand protection value to insurers and corporate security teams.
